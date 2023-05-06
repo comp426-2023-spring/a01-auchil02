@@ -16,5 +16,8 @@
     "http"
   ],
   "author": "@auchil02",
-  "license": "GPL-3.0-or-later"
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "minimist": "^1.2.8"
+  }
 }
